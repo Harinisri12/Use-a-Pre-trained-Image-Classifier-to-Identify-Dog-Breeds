@@ -47,8 +47,16 @@ Upon execution, the project generates a summary including:
 - Overall Match Percentage
 The results are broken down by model (ResNet, AlexNet, VGG), showing counts for correctly identified dogs and breeds. Misclassifications, if any, are also reported.
 
+## RESNET
+
 ![RESNET](RESNET.png)
+
+## ALEXNET
+
 ![ALEXNET](ALEXNET.png)
+
+## VGG
+
 ![VGG](VGG.png)
 
 ## Acknowledgments
