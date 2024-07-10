@@ -48,7 +48,7 @@ Upon execution, the project generates a summary including:
 The results are broken down by model (ResNet, AlexNet, VGG), showing counts for correctly identified dogs and breeds. Misclassifications, if any, are also reported.
 
 ## Acknowledgments
-This project is a product of the AWS AI/ML Scholarship Program's AI Programming with Python Nanodegree. Special thanks to our mentor for their support and contributions.
+This project is a part of the AWS AI/ML Scholarship Program's AI Programming with Python Nanodegree. Special thanks to our mentor for their support and contributions.
 
 
 
