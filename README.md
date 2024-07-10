@@ -34,7 +34,7 @@ To run the project, follow these steps:
    python check_images.py --dir <path_to_images> --arch <model_architecture> --dogfile dognames.txt
 
    ```
-## Expected Output
+## Output
 
 Upon execution, the project generates a summary including:
 
